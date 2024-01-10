@@ -23,7 +23,6 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.11</version>
-      <scope>test</scope>
     </dependency>
     <!-- https://mvnrepository.com/artifact/com.intuit.karate/karate-apache -->
 <dependency>
@@ -39,6 +38,14 @@
     <version>0.9.4</version>
     
 </dependency>
+
+<!-- https://mvnrepository.com/artifact/net.masterthought/cucumber-reporting -->
+<dependency>
+    <groupId>net.masterthought</groupId>
+    <artifactId>cucumber-reporting</artifactId>
+    <version>3.8.0</version>
+</dependency>
+
 
   </dependencies>
 
